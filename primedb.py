@@ -1,3 +1,4 @@
+#A simple program for generating a DB of primes
 import sqlite3
 
 conn = sqlite3.connect('primes.db')
